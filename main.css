@@ -1,0 +1,51 @@
+body {
+    background-color: #002b80;
+    max-width: 1500px:
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Bungee Inline', cursive;
+    border: 23px groove #e60000;
+    padding: 8px;
+    margin: 20px;
+}
+
+p {
+    color: #ffffff;
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 20px;
+
+}
+
+img {
+     max-width: 100%;
+}
+
+}
+
+a:link {
+    color: #e60000;
+    text-decoration: none;
+
+}
+
+a:visited {
+    color: #ff3333;
+    text-decoration: underline;
+
+}
+
+a:hover {
+    color: #0066ff;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #cc7a00;
+}
